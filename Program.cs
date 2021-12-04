@@ -6,6 +6,9 @@ namespace code
     {
         static void Main(string[] args)
         {
+            //hello
+            //hello2
+        
             int playerResult;
 
             int dragonResult;
