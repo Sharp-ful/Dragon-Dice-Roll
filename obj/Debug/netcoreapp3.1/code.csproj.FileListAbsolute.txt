@@ -11,3 +11,17 @@ C:\Users\Miguel\Desktop\code\obj\Debug\netcoreapp3.1\code.csproj.CoreCompileInpu
 C:\Users\Miguel\Desktop\code\obj\Debug\netcoreapp3.1\code.dll
 C:\Users\Miguel\Desktop\code\obj\Debug\netcoreapp3.1\code.pdb
 C:\Users\Miguel\Desktop\code\obj\Debug\netcoreapp3.1\code.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\Dragon Dice Roll\bin\Debug\netcoreapp3.1\code.exe
+C:\Users\Miguel\Desktop\Dragon Dice Roll\bin\Debug\netcoreapp3.1\code.deps.json
+C:\Users\Miguel\Desktop\Dragon Dice Roll\bin\Debug\netcoreapp3.1\code.runtimeconfig.json
+C:\Users\Miguel\Desktop\Dragon Dice Roll\bin\Debug\netcoreapp3.1\code.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Dragon Dice Roll\bin\Debug\netcoreapp3.1\code.dll
+C:\Users\Miguel\Desktop\Dragon Dice Roll\bin\Debug\netcoreapp3.1\code.pdb
+C:\Users\Miguel\Desktop\Dragon Dice Roll\obj\Debug\netcoreapp3.1\code.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Dragon Dice Roll\obj\Debug\netcoreapp3.1\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Dragon Dice Roll\obj\Debug\netcoreapp3.1\code.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Dragon Dice Roll\obj\Debug\netcoreapp3.1\code.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Dragon Dice Roll\obj\Debug\netcoreapp3.1\code.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Dragon Dice Roll\obj\Debug\netcoreapp3.1\code.dll
+C:\Users\Miguel\Desktop\Dragon Dice Roll\obj\Debug\netcoreapp3.1\code.pdb
+C:\Users\Miguel\Desktop\Dragon Dice Roll\obj\Debug\netcoreapp3.1\code.genruntimeconfig.cache
